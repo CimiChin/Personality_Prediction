@@ -92,7 +92,7 @@ if 'models_loaded' not in st.session_state:
 # ======================================================================================
 # KONTEN HALAMAN UTAMA (HOME)
 # ======================================================================================
-st.title("Selamat Datang di Dasbor Prediksi Kepribadian! 👋")
+st.title("Selamat Datang di Dashboard Prediksi Kepribadian! 👋")
 st.markdown("---")
 st.header("Tentang Aplikasi Ini")
 st.markdown("""
