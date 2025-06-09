@@ -17,15 +17,6 @@ Aplikasi ini dibagi menjadi tiga halaman utama dengan berbagai fitur:
     * Menampilkan hasil prediksi dari kedua model beserta tingkat kepercayaannya (probabilitas).
     * **Radar Chart** yang membandingkan profil pengguna dengan profil rata-rata Introvert dan Extrovert untuk wawasan yang lebih dalam.
 
----
-
-## 📸 Tampilan Aplikasi
-
-| Halaman Analisis Data | Halaman Hasil Model | Halaman Prediksi |
-| :---: | :---: | :---: |
-| ![Halaman EDA](link-ke-screenshot-eda.png) | ![Halaman Hasil Model](link-ke-screenshot-model.png) | ![Halaman Prediksi](link-ke-screenshot-prediksi.png) |
-
----
 
 ## 🛠️ Teknologi yang Digunakan
 
